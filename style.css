@@ -14,6 +14,12 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column; 
+}
+
+.loading-text {
+  font-weight: bold;
+  text-align: center;
 }
 
 .loaded {
